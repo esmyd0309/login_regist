@@ -207,7 +207,7 @@ export default {
             bodyTextVariant: 'dark',
             footerBgVariant: 'warning',
             footerTextVariant: 'dark',
-            enlace: 'http://localhost/logiApp/login_regist/public/',
+            enlace: 'http://159.203.177.236/',
             enter: false
 
         }
